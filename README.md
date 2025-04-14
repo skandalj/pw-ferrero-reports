@@ -33,7 +33,7 @@ Inoltre, sono stati utilizzati font web per assicurare una tipografia leggibile 
 ## Avvio rapido
 
 1. Clona il repository:
-   git clone [https://github.com/tuo-username/ferrero-sustainability.git](https://github.com/skandalj/pw-ferrero-reports.git)
+   git clone https://github.com/skandalj/pw-ferrero-reports.git
 
 2. Apri il file index.html nel tuo browser.
 
