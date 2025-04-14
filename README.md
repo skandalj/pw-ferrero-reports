@@ -16,7 +16,7 @@ Una pagina web realizzata in HTML, CSS e Bootstrap per il download dei report di
 
 ## Struttura del progetto
 
-ferrero-sustainability/
+pw-ferrero/
 ├── index.html  
 ├── css/  
 │   └── style.css  
@@ -33,7 +33,7 @@ Inoltre, sono stati utilizzati font web per assicurare una tipografia leggibile 
 ## Avvio rapido
 
 1. Clona il repository:
-   git clone https://github.com/tuo-username/ferrero-sustainability.git
+   git clone [https://github.com/tuo-username/ferrero-sustainability.git](https://github.com/skandalj/pw-ferrero-reports.git)
 
 2. Apri il file index.html nel tuo browser.
 
